@@ -1,0 +1,23 @@
+# Python environment installation files
+.env
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+data_processing/__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.ruff_cache/
+
+# Logs and documentation
+logs/
+*.excalidraw
+
+# Data typically too large for GitHub
+datasets/topics/
+
+# Jupyter notebooks
+analysis/notebooks/
